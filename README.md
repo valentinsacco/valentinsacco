@@ -11,6 +11,7 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
 - 🛢 &nbsp;Database:&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-0A1A2F?style=flat&logo=redis)
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
