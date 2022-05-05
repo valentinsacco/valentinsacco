@@ -2,6 +2,10 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
+```js
+  const valentin = {}
+```
+
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 - 🗄 &nbsp;Backend:&nbsp;
